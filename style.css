@@ -17,6 +17,7 @@ p {
     margin: 0 auto;
     margin: 20px auto;
     width: 768px;
+    font-size: 18px;
 }
 .blue {
     color: blue
@@ -41,5 +42,5 @@ footer {
     text-align: center;
     width: 768px;
     margin: auto;
-    font-size: 18px;
+    font-size: 20px;
 }
