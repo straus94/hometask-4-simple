@@ -1,0 +1,45 @@
+
+header {
+    background-color: #A52A2A;
+    color: white;
+    text-align: center;
+    width: 768px;
+    margin: 0 auto;
+}
+.heading {
+    display: block;
+    margin: 0 auto;
+}
+.conent {
+    margin: 0 auto;
+}
+p {
+    margin: 0 auto;
+    margin: 20px auto;
+    width: 768px;
+}
+.blue {
+    color: blue
+}
+.hard {
+    font-weight: 800;
+}
+.cars {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: center;
+    margin: 0 470px;
+}
+.cars img {
+    border: black dashed 3px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: 768px;
+    margin: auto;
+    font-size: 18px;
+}
